@@ -3,8 +3,7 @@
 <h2> Me chamo Humberto. </h2>
 <p> Sou estudante de Tecnologias em Sistemas pra Internet no IFSul, e possuo conhecimento em linguagens como Java, C, JavaScript e PHP </p>
 
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=humbertobrrt)](https://github.com/stats-organization/github-stats-extended)
-
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=humbertobrrt&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=transparent)](https://github-stats-extended.vercel.app/api?username=humbertobrrt&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=transparent)
 
 <h2> Tech Stack </h2>
 
