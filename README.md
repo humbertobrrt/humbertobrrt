@@ -4,8 +4,6 @@
 
 [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=humbertobrrt)](https://github.com/stats-organization/github-stats-extended)
 
-## 🚀 Tecnologias
-
 <h3>💻 Tecnologias</h3>
 
 <p>
