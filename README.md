@@ -1,5 +1,6 @@
-Olá! Me chamo humberto! 
-Sou estudante de Tecnologias em Sistemas pra Internet no IFSul, e possuo conhecimento em linguagens como Java, C, JavaScript e PHP
+<h2> Hello world! </h2> 
+<h3> Me chamo humberto. </h3>
+<p> Sou estudante de Tecnologias em Sistemas pra Internet no IFSul, e possuo conhecimento em linguagens como Java, C, JavaScript e PHP </p>
 
 [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=humbertobrrt)](https://github.com/stats-organization/github-stats-extended)
 
