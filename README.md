@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=40&pause=1000&color=B80000&width=435&lines=Hello+World!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=30&pause=1000&color=B80000&width=435&lines=Hello+World!" alt="Typing SVG" /></a>
 
 <h3> Me chamo Humberto. </h3>
 <p> Sou estudante de Tecnologias em Sistemas pra Internet no IFSul, e possuo conhecimento em linguagens como Java, C, JavaScript e PHP </p>
