@@ -11,7 +11,7 @@ Sou estudante de Tecnologias em Sistemas pra Internet no IFSul, e possuo conheci
   <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/java.svg" width="50" height="50" alt="Java">
   <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/spring.svg" width="50" height="50" alt="Spring">
   <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/mysql.svg" width="50" height="50" alt="MySQL">
-  <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/html5.svg" width="50" height="50" alt="HTML5">
+  <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/html-5.svg" width="50" height="50" alt="HTML5">
   <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/css-3.svg" width="50" height="50" alt="CSS3">
   <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/javascript.svg" width="50" height="50" alt="JS">
   <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/git.svg" width="50" height="50" alt="Git">
