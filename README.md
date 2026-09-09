@@ -5,11 +5,12 @@ Sou estudante de Tecnologias em Sistemas pra Internet no IFSul, e possuo conheci
 
 ## 🚀 Tecnologias
 
+<h3>💻 Tecnologias</h3>
+
 <p>
-  <img src="./icons/java.svg" width="45">
-  <img src="./icons/spring.svg" width="45">
-  <img src="./icons/mysql.svg" width="45">
-  <img src="./icons/postgresql.svg" width="45">
-  <img src="./icons/git.svg" width="45">
-  <img src="./icons/github.svg" width="45">
+  <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/java.svg" width="50" height="50" alt="Java">
+  <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/spring.svg" width="50" height="50" alt="Spring">
+  <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/mysql.svg" width="50" height="50" alt="MySQL">
+  <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/git.svg" width="50" height="50" alt="Git">
+  <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/github.svg" width="50" height="50" alt="GitHub">
 </p>
